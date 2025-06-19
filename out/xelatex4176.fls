@@ -1,0 +1,5 @@
+PWD c:/Users/Usuario/OneDrive/Documents/Obsidian/Korean-Latex
+INPUT c:/texlive/2025/texmf.cnf
+INPUT c:/texlive/2025/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt
+INPUT c:/Users/Usuario/OneDrive/Documents/Obsidian/Korean-Latex/main.tex

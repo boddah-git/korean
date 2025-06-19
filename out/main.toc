@@ -1,0 +1,23 @@
+\contentsline {chapter}{\numberline {0}Basics}{3}{chapter.0}%
+\contentsline {section}{\numberline {0.1}Korean Alphabet (한글)}{3}{section.0.1}%
+\contentsline {subsection}{\numberline {0.1.1}Introduction}{3}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {0.1.2}Basic Structure}{3}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {0.1.3}Vowels}{5}{subsection.0.1.3}%
+\contentsline {subsubsection}{Bright, Dark and Neutral Vowels}{5}{subsubsection*.2}%
+\contentsline {section}{\numberline {0.2}Basic Sentence Structure and Particles}{6}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Pronouns}{6}{section.0.3}%
+\contentsline {section}{\numberline {0.4}Numbering}{7}{section.0.4}%
+\contentsline {subsection}{\numberline {0.4.1}Sino}{7}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {0.4.2}Native}{8}{subsection.0.4.2}%
+\contentsline {chapter}{\numberline {1}Verbs}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Speech Levels}{9}{section.1.1}%
+\contentsline {paragraph}{Higher Levels}{9}{paragraph*.3}%
+\contentsline {paragraph}{Middle levels}{9}{paragraph*.4}%
+\contentsline {paragraph}{Lower levels}{9}{paragraph*.5}%
+\contentsline {section}{\numberline {1.2}Endings}{10}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Grammatical Mood Endings}{10}{subsection.1.2.1}%
+\contentsline {subsubsection}{Imperative \rom []{명령형}{myeonglyeonghyeong}}{11}{subsubsection*.6}%
+\contentsline {subsubsection}{Propositive \rom []{청유형}{cheongyuhyeong}}{11}{subsubsection*.7}%
+\contentsline {section}{\numberline {1.3}Grammatical Tenses}{11}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Declarative Present Tense (평서형현재시제)}{11}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Declarative Past Tense (평서과거시제)}{12}{subsection.1.3.2}%
